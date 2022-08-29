@@ -1,0 +1,13 @@
+@media (max-width: 1440px) {
+  .container {
+    width: 90%;
+  }
+}
+@media (max-width: 1220px) {
+  #hero .hero--general__block h4 {
+    font-size: 17px;
+    margin-left: 30px;
+  }
+}
+
+/*# sourceMappingURL=media.css.map */
